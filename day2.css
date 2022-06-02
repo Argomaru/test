@@ -1,0 +1,23 @@
+/* .box {
+  height: 100px;
+  background-color: turquoise; */
+/* width: 250px; */
+/* border: 1px solid black;
+} */
+
+.flex-container {
+  display: flex;
+  border: 1px solid black;
+  justify-content: space-evenly;
+  height: 500px;
+  align-content: flex-end;
+  align-items: center;
+  flex-direction: center;
+}
+
+.box {
+  height: 100px;
+  background-color: red;
+  width: 250px;
+  border: 1px solid black;
+}
